@@ -1,7 +1,7 @@
 # Blog
 
 我翻译的文字 [http://zcfy.cc/@loveky/article](http://zcfy.cc/@loveky/article)      
-我的slides [https://slides.com/loveky](https://slides.com/loveky)
+我的slides [https://slides.com/loveky](https://slides.com/loveky)      
 [推荐的一些书](https://github.com/loveky/Blog/issues/4) 
 
 
