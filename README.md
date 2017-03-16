@@ -1,4 +1,4 @@
-# Blog已经迁移至 [https://loveky.githun.io](https://loveky.githun.io)
+# Blog已经迁移至 [https://loveky.github.io](https://loveky.github.io)
 
 我翻译的文字 [http://zcfy.cc/@loveky/article](http://zcfy.cc/@loveky/article)       
 我的slides [https://slides.com/loveky](https://slides.com/loveky)      
